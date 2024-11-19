@@ -4,3 +4,5 @@ dvsdfs
 It's a stashing file
 
 sfsdsdssdfdsfsd sfds sdfsdasfhosiafhsdfsd
+
+Stash branch ed
