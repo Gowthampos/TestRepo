@@ -5,3 +5,5 @@ Stashing Changes
 Stashing Changed updated
 Now checking untracked / tracking files for stashing
 Stash multiple 1
+
+Tag v1.0
